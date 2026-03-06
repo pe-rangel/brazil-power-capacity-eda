@@ -33,11 +33,15 @@ One of the most interesting findings in this analysis is the "Wind Power vs. Hyd
    ```bash
    git clone https://github.com/pe-rangel/brazil-power-capacity-eda.git
    ```
-2. Install the required dependencies:
+2. Navigate to the project directory:
+   ```bash
+   cd brazil-power-capacity-eda
+   ```
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the script:
+4. Run the script:
    ```bash
-   python brazil_power_capacity.py
+   python brazil_power_generation_capacity.py
    ```
