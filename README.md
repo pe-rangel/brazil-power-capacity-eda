@@ -27,8 +27,17 @@ One of the most interesting findings in this analysis is the "Wind Power vs. Hyd
 <img width="1256" height="572" alt="newplot" src="https://github.com/user-attachments/assets/994b328c-805b-4199-abe4-7ee622e8dd5a" />
 
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/pe-rangel/brazil-power-capacity-eda.git](https://github.com/pe-rangel/brazil-power-capacity-eda.git)
+   git clone https://github.com/pe-rangel/brazil-power-capacity-eda.git
+   ```
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the script:
+   ```bash
+   python brazil_power_capacity.py
+   ```
