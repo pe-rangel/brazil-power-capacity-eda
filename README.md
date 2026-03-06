@@ -21,11 +21,10 @@ One of the most interesting findings in this analysis is the "Wind Power vs. Hyd
 ## Visualizations
 *(Note: Plotly charts are interactive, run the script locally to explore the data.)*
 
-<img width="1256" height="572" alt="newplot (3)" src="https://github.com/user-attachments/assets/e88db759-ed8b-4d80-bb12-77d6a39818ae" />
-<img width="1256" height="572" alt="newplot (2)" src="https://github.com/user-attachments/assets/56422f45-1e16-4b32-8a0a-1f6f9c2661eb" />
-<img width="1256" height="572" alt="newplot (1)" src="https://github.com/user-attachments/assets/c9e3e726-387e-4348-b024-77fd6c8c7624" />
 <img width="1256" height="572" alt="newplot" src="https://github.com/user-attachments/assets/994b328c-805b-4199-abe4-7ee622e8dd5a" />
-
+<img width="1256" height="572" alt="newplot (1)" src="https://github.com/user-attachments/assets/c9e3e726-387e-4348-b024-77fd6c8c7624" />
+<img width="1256" height="572" alt="newplot (2)" src="https://github.com/user-attachments/assets/56422f45-1e16-4b32-8a0a-1f6f9c2661eb" />
+<img width="1256" height="572" alt="newplot (3)" src="https://github.com/user-attachments/assets/e88db759-ed8b-4d80-bb12-77d6a39818ae" />
 
 ## How to Run the Project
 
