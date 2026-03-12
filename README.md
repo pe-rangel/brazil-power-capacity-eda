@@ -5,7 +5,7 @@ This project is an Exploratory Data Analysis (EDA) of the Brazilian power grid's
 ## Project Goals
 I built this project to apply data manipulation and visualization techniques to real engineering data. The main objectives were:
 - **Personal Development:** Focus on improving data analysis skills by putting into practice the use of Python libraries such as Pandas for data manipulation and Plotly for interactive data visualization.
-- Analyze and clean raw CSV data from the ONS open data portal.
+- Analyze and clean CSV data from the ONS open data portal.
 - Generate interactive visualizations to uncover insights.
 
 ## Key Insights
